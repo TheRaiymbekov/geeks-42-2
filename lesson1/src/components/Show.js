@@ -1,11 +1,10 @@
 import React from 'react';
 
-const Show = ({data}) => {
+const Show = ({title}) => {
     return (
-        <div style={{color: 'yellow' +
-                ''}}>
+        <div style={{color: 'yellow' + ''}}>
             {
-               data
+                title
             }
         </div>
     );

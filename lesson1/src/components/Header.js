@@ -1,11 +1,11 @@
 import React from 'react';
-import Title from "./Title";
+import Title from './Title';
+
 
 const Header = () => {
     return (
         <div>
-            <Title title={'Header'} name={'Talgat' +
-                ''}/>
+            <Title title={'Header'} name={'Islam'}/>
         </div>
     );
 };
