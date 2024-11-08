@@ -26,9 +26,9 @@ const MainPage = () => {
             {/*<Button name={'Save'} color={'secondary'}/>*/}
             {/*<Content text={'JavaScript'}/>*/}
             {/*<Footer/>*/}
-            {/*<Example name={'Talgat'}>*/}
+            {/*<Example name={'Islam'}>*/}
             {/*    <div style={{backgroundColor: 'blueviolet'}}>*/}
-            {/*        <p style={{color: "red"}}>name Talgat</p>*/}
+            {/*        <p style={{color: "red"}}>name Islam</p>*/}
             {/*    </div>*/}
             {/*</Example>*/}
             <Count/>

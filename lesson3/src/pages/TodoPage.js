@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import TodoList from '../components/todoList/TodoList';
 import Button from '../components/button/Button';
 import Modal from '../components/modal/Modal';
-import Todo from "../components/todo/Todo";
 
 
 const TodoPage = () => {

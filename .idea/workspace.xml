@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6990e12-62de-400c-a3a0-510b6f98fb29" name="Changes" comment="Iman">
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todo/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todo/Todo.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todolist/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/components/todolist/TodoList.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/pages/TodoPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/components/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/button/Button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/components/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/button/Button.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/components/modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/src/components/todolist/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/todoList/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/src/components/todolist/TodoList.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/todoList/TodoList.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/src/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/pages/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/src/pages/TodoPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/pages/TodoPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -61,24 +60,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/Desktop/GEEKS_REACT/geeks-42-2/lesson3",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/GEEKS_REACT/geeks-42-2/lesson3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start (1).executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson3" />
@@ -90,7 +90,17 @@
       <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/lesson3/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/lesson1/package.json" />
       <command value="run" />
@@ -103,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -135,7 +146,8 @@
       <workItem from="1730808833555" duration="24000" />
       <workItem from="1730808885451" duration="11000" />
       <workItem from="1730904365908" duration="222000" />
-      <workItem from="1731087018067" duration="1455000" />
+      <workItem from="1731087018067" duration="4212000" />
+      <workItem from="1731091290083" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="Iman">
       <option name="closed" value="true" />
@@ -150,6 +162,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iman" />
