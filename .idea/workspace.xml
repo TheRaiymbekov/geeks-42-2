@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ae54946-ec07-45ad-8d01-43b9ab8256bf" name="Changes" comment="" />
+    <list default="true" id="c6990e12-62de-400c-a3a0-510b6f98fb29" name="Changes" comment="Iman">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Button.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Example/Example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/count/Count.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/count/Count.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/input/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/input/Input.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/modal/Modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/modal/Modal.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/pages/MainPage.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,63 +46,78 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lesson1" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;TheRaiymbekov&quot;
+    &quot;assignee&quot;: &quot;iman0008&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/TheRaiymbekov/geeks-42-2.git&quot;,
-    &quot;accountId&quot;: &quot;1402f3da-77ef-4ed9-8881-1dcd1bfd3dd4&quot;
+    &quot;url&quot;: &quot;https://github.com/iman0008/lesson_1_month_4.git&quot;,
+    &quot;accountId&quot;: &quot;674b6158-af27-402c-8b79-f1e77d4af309&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2oG1k4u66EXnckTPvNLozD82r3D" />
+  <component name="ProjectId" id="2oCzCzHq54NfJChJe9RiCTpXBlQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/Desktop/GEEKS_REACT/geeks-42-2/lesson2/build",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/DZ1_Iman_42_2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson1\src" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson2\src" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson1" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson2\components" />
+      <recent name="C:\Users\user\Desktop\Geeks\4 month" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson1" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson1\src" />
-      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson2\components" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/lesson1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -81,25 +129,42 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ae54946-ec07-45ad-8d01-43b9ab8256bf" name="Changes" comment="" />
-      <created>1730481239666</created>
+      <changelist id="c6990e12-62de-400c-a3a0-510b6f98fb29" name="Changes" comment="" />
+      <created>1730388221217</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730481239666</updated>
-      <workItem from="1730481241447" duration="466000" />
-      <workItem from="1730481878215" duration="227000" />
-      <workItem from="1730549924607" duration="5832000" />
-      <workItem from="1730720321543" duration="294000" />
-      <workItem from="1730720636365" duration="1090000" />
-      <workItem from="1730822832617" duration="4876000" />
-      <workItem from="1730828123084" duration="1578000" />
-      <workItem from="1730831122258" duration="1816000" />
-      <workItem from="1730833007074" duration="216000" />
-      <workItem from="1730833230235" duration="1327000" />
+      <updated>1730388221217</updated>
+      <workItem from="1730388222445" duration="5555000" />
+      <workItem from="1730394155258" duration="5000" />
+      <workItem from="1730394166278" duration="3622000" />
+      <workItem from="1730398030401" duration="129000" />
+      <workItem from="1730398177442" duration="1145000" />
+      <workItem from="1730399401665" duration="110000" />
+      <workItem from="1730474942438" duration="1331000" />
+      <workItem from="1730805518644" duration="450000" />
+      <workItem from="1730806568322" duration="2024000" />
+      <workItem from="1730808677406" duration="122000" />
+      <workItem from="1730808833555" duration="24000" />
+      <workItem from="1730808885451" duration="11000" />
+      <workItem from="1730904365908" duration="222000" />
+      <workItem from="1731087018067" duration="380000" />
     </task>
+    <task id="LOCAL-00001" summary="Iman">
+      <option name="closed" value="true" />
+      <created>1730808407297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730808407297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iman" />
   </component>
 </project>
