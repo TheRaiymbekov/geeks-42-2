@@ -9,7 +9,7 @@ const Todo = ({
                   handleDelete,
                   handleEdit,
                   setCurrentId,
-                  isEdit
+                  isEdit,
               }) => {
     const [ inputValue, setInputValue ] = useState(todo.title);
     console.log(inputValue, 'inputValue');
@@ -34,13 +34,16 @@ const Todo = ({
                 isEdit && <div className={classes.li}>
                     <input
                         type="text"
-                        value={inputValue}
+                        value= {inputValue}
                         onChange={(e) => setInputValue(e.target.value)}/>
-                    <Button name={'Save'} color={'primary'} action={() => handleEdit({
+                    <Button name={'Save'} color={'primary'} action={() => {
+                        handleEdit({
                         ...todo,
                         title: inputValue
-                    })}/>
-                    <Button name={'Cancel'} color={'error'} action={() => {
+                        })
+                        setCurrentId(isEdit===null)
+                    }}/>
+                    <Button name={'Cancel'} color={'error'} action={() => {setCurrentId( isEdit===null)
                     }}/>
                 </div>
             }

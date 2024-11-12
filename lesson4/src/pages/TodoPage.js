@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import TodoList from '../components/todoList/TodoList';
 import Button from '../components/button/Button';
 import Modal from '../components/modal/Modal';
+import todo from "../components/todo/Todo";
 
 
 const TodoPage = () => {
@@ -78,8 +79,8 @@ const TodoPage = () => {
             />
             <Button name={'Открыть'} action={() => handleShow('show')}/>
             <Button name={'Открыть2'} action={() => handleShow('show2')}/>
-            <button onClick={() => handleShow('show')}>Открыть</button>
-            <button onClick={() => handleShow('show2')}>Открыть</button>
+            {/*<button onClick={() => handleShow('show')}>Открыть</button>*/}
+            {/*<button onClick={() => handleShow('show2')}>Открыть</button>*/}
             {
                 show && <Modal
                     handleShow={handleShow}

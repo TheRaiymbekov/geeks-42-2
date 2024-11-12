@@ -8,13 +8,13 @@
     padding: 20px;
 
     .info,
-    .btns {
+    .btns{
         display: flex;
         gap: 10px;
     }
 }
 
-.completed {
-    background-color: rgba(0, 128, 70, 0.81);
+.done {
+    background-color: green;
     text-decoration: line-through;
 }
