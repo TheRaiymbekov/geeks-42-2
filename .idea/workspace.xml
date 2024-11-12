@@ -4,15 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6990e12-62de-400c-a3a0-510b6f98fb29" name="Changes" comment="Iman">
+    <list default="true" id="c6990e12-62de-400c-a3a0-510b6f98fb29" name="Changes" comment="lesson3">
+      <change afterPath="$PROJECT_DIR$/lesson4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/Example/Example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/count/Count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/count/Count.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/input/Input.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/modal/Modal.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/todo/Todo.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/todoList/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/components/todoList/TodoList.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/pages/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/pages/TodoPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/components/todolist/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/todoList/TodoList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/components/todolist/TodoList.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/components/todoList/TodoList.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/pages/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/pages/TodoPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/pages/TodoPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +57,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="main" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,7 +76,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -64,8 +93,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/GEEKS_REACT/geeks-42-2/lesson3&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lesson3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/GEEKS_REACT/geeks-42-2/lesson4&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -81,6 +110,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson4" />
       <recent name="C:\Users\user\Desktop\GEEKS_REACT\geeks-42-2\lesson3" />
       <recent name="C:\Users\user\Desktop\Geeks\4 month" />
     </key>
@@ -148,6 +178,9 @@
       <workItem from="1730904365908" duration="222000" />
       <workItem from="1731087018067" duration="4212000" />
       <workItem from="1731091290083" duration="245000" />
+      <workItem from="1731091547380" duration="1871000" />
+      <workItem from="1731157868128" duration="2493000" />
+      <workItem from="1731402524154" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="Iman">
       <option name="closed" value="true" />
